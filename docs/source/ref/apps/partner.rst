@@ -2,8 +2,9 @@
 Partner
 =======
 
-The partner app mostly provides three abstract models.
-:class:`oscar.apps.partner.abstract_models.AbstractPartner` and
+The partner app provides three abstract models.
+:class:`oscar.apps.partner.abstract_models.AbstractPartner`,
+:class:`oscar.apps.partner.abstract_models.AbstractStockAlert` and
 :class:`oscar.apps.partner.abstract_models.AbstractStockRecord` are essential
 parts of Oscar's catalogue management.
 
